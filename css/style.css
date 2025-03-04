@@ -7,10 +7,12 @@
 }
 
 html {
+  height: 100%;
   font-size: 62.25%;
 }
 
 body {
+  height: 100%;
   font-size: 1.5rem;
   font-family: "Outfit", "Arial", sans-serif;
   font-weight: 400;
